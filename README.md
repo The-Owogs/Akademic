@@ -2,18 +2,17 @@
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
-# Project Title
+# Akademic - Smarter Learning, Smarter Results.
 
-A brief description of what this project does and who it's for
+Akademic is a free learning platform designed to make studying simple, smart, and effective. We provide well-organized notes, resources, and materials for students to access anytime, anywhere. With Akademic, you learn smarter and achieve greater results — because better preparation leads to better success.
 
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
+- Organized Study Materials
+- Completely Free
+- Smart Access System
+- Focused on Results
 
 ## Screenshots
 
@@ -22,20 +21,20 @@ A brief description of what this project does and who it's for
 
 ## Used By
 
-This project is used by the following companies:
+This project is used by the following students:
 
-- Company 1
-- Company 2
+- Student 1
+- Student 2
 
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Science Madness](https://sites.google.com/view/smarmy/home)
+ - [Akash The Educator](https://akashtheeducator.netlify.app/)
+ - [NCERT App](https://play.google.com/store/apps/details?id=com.solutions.ncertbooks&hl=en-US&pli=1)
 
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email theowogs@proton.me or join our Discord server.
 
